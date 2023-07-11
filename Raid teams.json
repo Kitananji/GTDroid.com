@@ -11,13 +11,44 @@
       ],
       "Video": "https://www.youtube.com/watch?v=vEg0Ea3m_cI"
     },
+
     {
       "Heros": [
         "Claudio",
-        "Oghma",
+        "Oghma (Rifle)",
         "1st Corps Commander",
         "Kamael"
       ]
+    },
+
+    {
+      "Heros": [
+        "Claudio",
+        "Oghma (Rifle)",
+        "1st Corps Commander",
+        "Nari"
+      ],
+      "Video": "https://www.youtube.com/watch?v=Nilj4NbsAI8"
+    },
+
+    {
+      "Heros": [
+        "Claudio",
+        "Oghma (Rifle)",
+        "1st Corps Commander",
+        "Cyborg Monk Chun Ryeo"
+      ],
+      "Video": "https://www.youtube.com/watch?v=TaRech8k3cA"
+    },
+
+    {
+      "Heros": [
+        "Claudio",
+        "Oghma (Rifle)",
+        "1st Corps Commander",
+        "Karina+"
+      ]
     }
+    
   ]
 }]
