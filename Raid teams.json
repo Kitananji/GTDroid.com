@@ -1,54 +1,135 @@
-[{
-  "Boss": "Minister Duncan",
-  "Element": "Basic",
-  "Teams": [
-    {
-      "Heros": [
-        "Claudio",
-        "Andras",
-        "1st Corps Commander",
-        "Nari"
-      ],
-      "Video": "https://www.youtube.com/watch?v=vEg0Ea3m_cI"
-    },
+[
+  {
+    "Boss": "Minister Duncan",
+    "Element": "Basic",
+    "Teams": [
+      {
+        "Heros": [
+          "Claudio",
+          "Andras",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=vEg0Ea3m_cI"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Nilj4NbsAI8"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Cyborg Monk Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=TaRech8k3cA"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Karina+"
+        ]
+      },
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Lilith",
+          "Beth",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=ysGj5A7R17w"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Karina+",
+          "Tinia"
+        ],
+        "Video": "https://www.youtube.com/watch?v=p5fJYuNYW5U"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=CgvEE6UjzIs"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Arabelle",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=m4QyqO0w4f0"
+      }
+    ]
+  },
 
-    {
-      "Heros": [
-        "Claudio",
-        "Oghma (Rifle)",
-        "1st Corps Commander",
-        "Kamael"
-      ]
-    },
+  {
+    "Boss": "Invader Director",
+    "Element": "Dark",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Rosetta",
+          "Cyborg Monk Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=6wjo3ramqgI"
+      }
+    ]
+  },
 
-    {
-      "Heros": [
-        "Claudio",
-        "Oghma (Rifle)",
-        "1st Corps Commander",
-        "Nari"
-      ],
-      "Video": "https://www.youtube.com/watch?v=Nilj4NbsAI8"
-    },
+  {
+    "Boss": "Grand Admiral Marina",
+    "Element": "Water",
+    "Teams": [
+      {
+        "Heros": [
+          "Ameris",
+          "Mayreel",
+          "Andras",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=nPKb4ADAsNc"
+      }
+    ]
+  },
 
-    {
-      "Heros": [
-        "Claudio",
-        "Oghma (Rifle)",
-        "1st Corps Commander",
-        "Cyborg Monk Chun Ryeo"
-      ],
-      "Video": "https://www.youtube.com/watch?v=TaRech8k3cA"
-    },
-
-    {
-      "Heros": [
-        "Claudio",
-        "Oghma (Rifle)",
-        "1st Corps Commander",
-        "Karina+"
-      ]
-    }
-    
-  ]
-}]
+  {
+    "Boss": "Furious Desert Bull Worm",
+    "Element": "Earth",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Plitvice (One-handed sword)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Mi5OcO2MEVE"
+      }
+    ]
+  }
+]
