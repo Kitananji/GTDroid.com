@@ -97,7 +97,58 @@
           "Cyborg Monk Chun Ryeo"
         ],
         "Video": "https://www.youtube.com/watch?v=6wjo3ramqgI"
+      },
+
+      {
+        "Heros": [
+          "H.E.R.O.S KAI",
+          "Valencia",
+          "Lapice",
+          "Lilith"
+        ],
+        "Video": "https://www.youtube.com/watch?v=g5-9v0Yt_bw"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Rosetta",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=tf0T9MclSC4"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Tinia",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=XTxTjS5jyZM"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Valencia",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=BFB9VdzgvO8"
+      },
+
+      {
+        "Heros": [
+          "Valencia",
+          "Lapice",
+          "Carol",
+          "Neva"
+        ],
+        "Video": "https://www.youtube.com/watch?v=wVRRv6EUbyM"
       }
+
     ]
   },
 
@@ -113,6 +164,36 @@
           "Kamael"
         ],
         "Video": "https://www.youtube.com/watch?v=nPKb4ADAsNc"
+      },
+
+      {
+        "Heros": [
+          "Elder Dragon's Daughter Ameris",
+          "Mayreel",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=I82cmoZ92Kk"
+      },
+
+      {
+        "Heros": [
+          "Rue (Two-handed sword)",
+          "Lilith",
+          "Lifeguard Yuze",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=QZpkjcq2oRs"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Andras",
+          "Mayreel",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DQNs1nrJCwA"
       }
     ]
   },
@@ -129,6 +210,85 @@
           "Nari"
         ],
         "Video": "https://www.youtube.com/watch?v=Mi5OcO2MEVE"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Plitvice (One-handed sword)",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=t7edJKuVMSA"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=eaRc8_tyFVM"
+      },
+
+      {
+        "Heros": [
+          "Vishuvac (Gauntlet)",
+          "Andras",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=PjqYPS8ppcU"
+      },
+
+      {
+        "Heros": [
+          "Elvira+",
+          "Andras",
+          "Vishuvac (Gauntlet)",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=w5iQjza5Ge8"
+      },
+
+      {
+        "Heros": [
+          "Rey",
+          "Scintilla",
+          "Lifeguard Yuze",
+          "Lilith"
+        ],
+        "Video": "https://www.youtube.com/watch?v=M1q72eRVHW4"
+      },
+
+      {
+        "Heros": [
+          "Elvira+",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=URSLpetXGCA"
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Plitvice (One-handed sword)",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=LjX3rZNNlBc"
       }
     ]
   }
