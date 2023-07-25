@@ -1,0 +1,644 @@
+[
+    {
+        "Type": "Staff",
+        "Name": "Black Rod",
+        "Icon": "https://i.imgur.com/wRWAA1s.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Dark Armour Fist",
+        "Icon": "https://i.imgur.com/46x0meg.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Demon's Blood Talisman",
+        "Icon": "https://i.imgur.com/pD6UD0H.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Sword of Dai",
+        "Icon": "https://i.imgur.com/FJ6W3xM.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Sword of Light",
+        "Icon": "https://i.imgur.com/RPStzdX.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "Staff",
+        "Name": "Xellos' Staff",
+        "Icon": "https://i.imgur.com/O0RpRpC.png",
+        "Tier": "Epic",
+        "IsSpecial": true
+    },
+    {
+        "Type": "Staff",
+        "Name": "Amarok",
+        "Icon": "https://i.imgur.com/58XICsm.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Angel Voice",
+        "Icon": "https://i.imgur.com/qwLbdRM.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Arges",
+        "Icon": "https://i.imgur.com/g8sKF3o.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Armada",
+        "Icon": "https://i.imgur.com/8cXLxA3.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Astarte",
+        "Icon": "https://i.imgur.com/u4NbFKb.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Atomic Destroyer",
+        "Icon": "https://i.imgur.com/TCYG3U6.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Balmug",
+        "Icon": "https://i.imgur.com/7ywKgxG.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Benedictus",
+        "Icon": "https://i.imgur.com/mSPBiLF.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Black Mamba",
+        "Icon": "https://i.imgur.com/8NuGMqH.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Blue Spear",
+        "Icon": "https://i.imgur.com/0OlWtHm.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Brave Heart",
+        "Icon": "https://i.imgur.com/ZW636hy.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Bringer of Tranquility",
+        "Icon": "https://i.imgur.com/mUjtxkR.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Cosmic Destroyer",
+        "Icon": "https://i.imgur.com/UXmWakI.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Dragon Fang",
+        "Icon": "https://i.imgur.com/FkoGn6V.png",
+        "Tier": "Epic",
+        "IconMargin": 3
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Durendal",
+        "Icon": "https://i.imgur.com/vMeyRUa.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Eckesachs",
+        "Icon": "https://i.imgur.com/rjHaNUK.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Eckesachs Mode.R",
+        "Icon": "https://i.imgur.com/7wGTbp3.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Eclipse",
+        "Icon": "https://i.imgur.com/YBFn60h.png",
+        "Tier": "Epic",
+        "IconMargin": 3
+    },
+    {
+        "Type": "Basket",
+        "Name": "Elusive reflection",
+        "Icon": "https://i.imgur.com/S0etX3l.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Equinox",
+        "Icon": "https://i.imgur.com/MSa6Ifp.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Fail-not",
+        "Icon": "https://i.imgur.com/lXD3KLo.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Fantasia",
+        "Icon": "https://i.imgur.com/xMlbYOt.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Furfur",
+        "Icon": "https://i.imgur.com/TwJk2W8.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Genocide",
+        "Icon": "https://i.imgur.com/8HwZ6H7.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Halo",
+        "Icon": "https://i.imgur.com/H3Q9hY2.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Head Hunter",
+        "Icon": "https://i.imgur.com/FjCZWfA.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Heavenly Perffection",
+        "Icon": "https://i.imgur.com/npl9eKa.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Ifrit",
+        "Icon": "https://i.imgur.com/LdvAFhs.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Infinite Change",
+        "Icon": "https://i.imgur.com/ghDgJ2I.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Innocent",
+        "Icon": "https://i.imgur.com/VZKRNOk.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Kagemaru",
+        "Icon": "https://i.imgur.com/zRiXQPG.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Liberator",
+        "Icon": "https://i.imgur.com/nlaW3a4.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Little Star",
+        "Icon": "https://i.imgur.com/72W6PuS.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Magnificat",
+        "Icon": "https://i.imgur.com/obeVDiZ.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Mayreel",
+        "Icon": "https://i.imgur.com/dM8mveL.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Messiah",
+        "Icon": "https://i.imgur.com/HivxmoS.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Mind Snap",
+        "Icon": "https://i.imgur.com/5UNXAqF.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Nemesis",
+        "Icon": "https://i.imgur.com/l6MAmEi.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Nereid",
+        "Icon": "https://i.imgur.com/3MJJQOW.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Nightmare",
+        "Icon": "https://i.imgur.com/CB4pPSk.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Ocean Call",
+        "Icon": "https://i.imgur.com/ujW9IMT.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Ocean Keeper",
+        "Icon": "https://i.imgur.com/4GndKtC.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Ocena's Tear",
+        "Icon": "https://i.imgur.com/81yLxBu.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Office Supply",
+        "Icon": "https://i.imgur.com/DA0bfSQ.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Omage Blaster",
+        "Icon": "https://i.imgur.com/nv164XG.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Ouros",
+        "Icon": "https://i.imgur.com/PAVZg06.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Paimon's Fragment III",
+        "Icon": "https://i.imgur.com/Zp1vvC7.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Parashu",
+        "Icon": "https://i.imgur.com/0nVOyob.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Permission Denied",
+        "Icon": "https://i.imgur.com/s3Oibdf.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Planet Buster",
+        "Icon": "https://i.imgur.com/4xOSa1T.png",
+        "Tier": "Epic",
+        "IconMargin": 3,
+        "SmallIconMargin": 1
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Predator",
+        "Icon": "https://i.imgur.com/6lWnVFq.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Prestige",
+        "Icon": "https://i.imgur.com/hlr0UPl.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Prominence",
+        "Icon": "https://i.imgur.com/58WOv3H.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Pure Mind",
+        "Icon": "https://i.imgur.com/y4wyyb6.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Queen's Grace",
+        "Icon": "https://i.imgur.com/dpZJ0g4.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Radiant",
+        "Icon": "https://i.imgur.com/Tb0ShbN.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Ratel",
+        "Icon": "https://i.imgur.com/4ZTbZTA.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Rebelion",
+        "Icon": "https://i.imgur.com/2P5VRJm.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Red Lotus",
+        "Icon": "https://i.imgur.com/2Ctrfar.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Sage Bead",
+        "Icon": "https://i.imgur.com/MV2ERaq.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Sarnga",
+        "Icon": "https://i.imgur.com/QLqw5yM.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Secret Book of the Shen Mountain Fist",
+        "Icon": "https://i.imgur.com/yAO3pyQ.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Shangri La",
+        "Icon": "https://i.imgur.com/GxT8De7.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Snow Maker",
+        "Icon": "https://i.imgur.com/wSPk1D1.png",
+        "Tier": "Epic",
+        "IconMargin": 3,
+        "SmallIconMargin": 1
+    },
+    {
+        "Type": "Claw",
+        "Name": "Solaris",
+        "Icon": "https://i.imgur.com/FBZDPvR.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Terminator",
+        "Icon": "https://i.imgur.com/ncexgCw.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Thousand Thunder",
+        "Icon": "https://i.imgur.com/WTZcdR5.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Twilight",
+        "Icon": "https://i.imgur.com/usxlWox.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Unchained",
+        "Icon": "https://i.imgur.com/nOyeQ9g.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Volcanic Core",
+        "Icon": "https://i.imgur.com/ujfWPqj.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Volcanic Horn",
+        "Icon": "https://i.imgur.com/bx79EGL.png",
+        "Tier": "Epic"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Blue Rose",
+        "Icon": "https://i.imgur.com/4nWjJkS.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Crescent Moon",
+        "Icon": "https://i.imgur.com/nd95Ncb.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Curiosity Solver",
+        "Icon": "https://i.imgur.com/XT6TtcS.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Emma",
+        "Icon": "https://i.imgur.com/ctzSjvV.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Fafnir",
+        "Icon": "https://i.imgur.com/tr8zDCQ.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Fenrir",
+        "Icon": "https://i.imgur.com/QKsl0A4.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Claw",
+        "Name": "Firm Determination",
+        "Icon": "https://i.imgur.com/ViTH493.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Basket",
+        "Name": "Frost Jack",
+        "Icon": "https://i.imgur.com/TnYF7fG.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Geminus",
+        "Icon": "https://i.imgur.com/bQCUekc.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Helios",
+        "Icon": "https://i.imgur.com/bz1lpvm.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Justice",
+        "Icon": "https://i.imgur.com/6BJdjLe.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Libera",
+        "Icon": "https://i.imgur.com/J96qcAU.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Libera Type.B",
+        "Icon": "https://i.imgur.com/m5x8vxL.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Magniton Buster",
+        "Icon": "https://i.imgur.com/PFRwKGo.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Marauder",
+        "Icon": "https://i.imgur.com/YIeKGpQ.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Merciless",
+        "Icon": "https://i.imgur.com/gGXmC48.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Murasame",
+        "Icon": "https://i.imgur.com/rVE19eR.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Negotiator",
+        "Icon": "https://i.imgur.com/rq6Ltdo.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Bow",
+        "Name": "Oberon",
+        "Icon": "https://i.imgur.com/IODaz58.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Pride of Fighter",
+        "Icon": "https://i.imgur.com/5E038Dc.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Pulverizer",
+        "Icon": "https://i.imgur.com/tg2gEgM.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Silence",
+        "Icon": "https://i.imgur.com/5ZuFcRm.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "TwoHandedSword",
+        "Name": "Tartaros",
+        "Icon": "https://i.imgur.com/KyK24sV.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Rifle",
+        "Name": "Trouble Maker",
+        "Icon": "https://i.imgur.com/S5LDvpM.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "OneHandedSword",
+        "Name": "Veritas",
+        "Icon": "https://i.imgur.com/xVaMpB8.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Gauntlet",
+        "Name": "Vulkan",
+        "Icon": "https://i.imgur.com/7UiXypX.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Witch Heart",
+        "Icon": "https://i.imgur.com/n4byTTW.png",
+        "Tier": "Legend"
+    },
+    {
+        "Type": "Staff",
+        "Name": "Wrath of the Dragon",
+        "Icon": "https://i.imgur.com/EsU5o3X.png",
+        "Tier": "Legend"
+    }
+]
