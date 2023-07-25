@@ -179,8 +179,8 @@
       {
         "Heros": [
           "Rue (Two-handed sword)",
-          "Lilith",
           "Lifeguard Yuze",
+          "Lilith",
           "Rey"
         ],
         "Video": "https://www.youtube.com/watch?v=QZpkjcq2oRs"
@@ -301,5 +301,413 @@
         "Video": "https://www.youtube.com/watch?v=LjX3rZNNlBc"
       }
     ]
+  },
+
+  {
+    "Boss": "Invader Commander",
+    "Element": "Basic",
+    "Teams": [
+      {
+        "Heros": [
+          "Claudio",
+          "Andras",
+          "1st Corps Commander",
+          "Nari"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=P2T2lT8_QlA"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=zf80eF_u_-s"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Cyborg Monk Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=SPLtpW_SxiQ"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Karina+"
+        ],
+        "Video": "https://www.youtube.com/watch?v=-tf3wwq9WGs"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Karina+",
+          "Tinia"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DNc1EPHZXjk"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Arabelle",
+          "Nari"
+        ]
+      },
+      {
+        "Heros": [
+          "Lilith",
+          "Beth",
+          "Lifeguard Yuze",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=9kk9aaU8GJk"
+      }
+    ]
+  },
+
+  {
+    "Boss": "Nine-tailed Fox Garam",
+    "Element": "Light",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Nari",
+          "Rosetta",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=riNRcUZZ4eg"
+      },
+    
+      {
+        "Heros": [
+          "Andras",
+          "Nari",
+          "Knight (Bow)",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=H-1KfpLkuvs"
+      },
+      
+      {
+        "Heros": [
+          "Future Knight",
+          "Nari",
+          "Knight (Bow)",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=NKluJg7eokE"
+      },
+
+      {
+        "Heros": [
+          "Kanna",
+          "Knight (Bow)",
+          "Lifeguard Yuze",
+          "Rey"
+        ],
+        "Video": "https://youtu.be/4ey0rPRlPlQ?t=215"
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Boss": "Ancient Demon",
+    "Element": "Fire",
+    "Teams": [
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Nari"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Cyborg Monk Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=MJFuODllWTc"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=8LCZu6oFXq4"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=_ma_-Zxrx70"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Cyborg Monk Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=o7iCUdkNUow"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=YwQFJnFNbl0"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "White Kid",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=3sxikdcF9j0"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "H.E.R.O.S KAI",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Orca",
+          "Coco",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Valencia",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Scintilla",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Veronica",
+          "Garam",
+          "Orca",
+          "Lucy"
+        ],
+        "Video": "https://www.youtube.com/watch?v=JfEvcE2bFvo"
+      },
+
+      {
+        "Heros": [
+          "Garam",
+          "Orca",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Veronica",
+          "Garam",
+          "Orca",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=9zfSlUY9Yh8"
+      }
+
+    ]
+  },
+
+  {
+    "Boss": "Fairy",
+    "Element": "Water",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "Elder Dragon's Daughter Ameris",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=UC0DW1Ebmng"
+      },
+ 
+      {
+        "Heros": [
+          "Andras",
+          "Kamael",
+          "Rosetta",
+          "1st Corps Commander"
+        ],
+        "Video": "https://www.youtube.com/watch?v=L9lUgxpTtdc"
+      },
+ 
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=qmc39uuSALE"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=IUqq6Ep6OLw"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Andras",
+          "Mayreel",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=z6T7LEu0tDo"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Andras",
+          "Mayreel",
+          "Tinia"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DMUgSIpbObg"
+      },
+
+      {
+        "Heros": [
+          "Rue (Two-handed sword)",
+          "Lifeguard Yuze",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DMUgSIpbObg"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Mayreel",
+          "Kamael",
+          "Veronica"
+        ],
+        "Video": "https://www.youtube.com/watch?v=qgsZKcx2Mzo"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Mayreel",
+          "Tinia",
+          "Veronica"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Attir4aviww"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Mayreel",
+          "Tinia",
+          "Rue (Two-handed sword)"
+        ],
+        "Video": "https://www.youtube.com/watch?v=UrP67ICbdbY"
+      }
+
+    ]
   }
+
 ]
