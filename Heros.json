@@ -1,465 +1,836 @@
 [
     {
         "Id": "Gourry",
-        "Portrait": "https://i.imgur.com/GxuoS9I.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/GxuoS9I.png",
+        "ExWeapon": "Sword of Light"
     },
     {
         "Id": "Lina",
-        "Portrait": "https://i.imgur.com/paH7g1T.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/paH7g1T.png",
+        "CombatType": "Ranged",
+        "ExWeapon": "Demon's Blood Talisman"
     },
     {
         "Id": "Xellos",
-        "Portrait": "https://i.imgur.com/tnTk6zY.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/tnTk6zY.png",
+        "CombatType": "Ranged",
+        "ExWeapon": "Xellos' Staff"
     },
     {
         "Id": "Dai",
-        "Portrait": "https://i.imgur.com/srLhzFH.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/srLhzFH.png",
+        "ExWeapon": "Sword of Dai"
     },
     {
         "Id": "Maam",
-        "Portrait": "https://i.imgur.com/pTqmCV0.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/pTqmCV0.png",
+        "ExWeapon": "Dark Armour Fist"
     },
     {
         "Id": "Mage Popp",
-        "Portrait": "https://i.imgur.com/LGdtxQi.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/LGdtxQi.png",
+        "CombatType": "Ranged",
+        "ExWeapon": "Black Rod"
     },
     {
         "Id": "Craig+",
-        "Name": "Craig",
-        "Portrait": "https://i.imgur.com/gJu2MSg.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/gJu2MSg.png",
+        "VersionOfHeroId": "Craig",
+        "Tier": "RareUpgraded",
+        "ExWeapon": "Silence"
     },
     {
         "Id": "Elvira+",
-        "Name": "Elvira",
-        "Portrait": "https://i.imgur.com/xeqZxY6.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/xeqZxY6.png",
+        "VersionOfHeroId": "Elvira",
+        "Tier": "RareUpgraded",
+        "CombatType": "Ranged",
+        "ExWeapon": "Trouble Maker"
     },
     {
         "Id": "Karina+",
-        "Name": "Karina",
-        "Portrait": "https://i.imgur.com/c6fFZVl.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/c6fFZVl.png",
+        "VersionOfHeroId": "Karina",
+        "Tier": "RareUpgraded",
+        "CombatType": "Ranged",
+        "ExWeapon": "Crescent Moon"
     },
     {
         "Id": "Mei+",
-        "Name": "Mei",
-        "Portrait": "https://i.imgur.com/WfhVGNG.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/WfhVGNG.png",
+        "VersionOfHeroId": "Mei",
+        "Tier": "RareUpgraded",
+        "ExWeapon": "Pride of Fighter"
     },
     {
         "Id": "AA72",
-        "Portrait": "https://i.imgur.com/phTJ6NK.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/phTJ6NK.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Blue Spear"
     },
     {
         "Id": "Alef",
-        "Portrait": "https://i.imgur.com/6HHWAGT.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/6HHWAGT.png",
+        "Tier": "Unique",
+        "ExWeapon": "Ouros"
     },
     {
         "Id": "Andras",
-        "Portrait": "https://i.imgur.com/Vy0FUIv.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/Vy0FUIv.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Head Hunter"
     },
     {
         "Id": "Ara",
-        "Portrait": "https://i.imgur.com/yclFLhA.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/yclFLhA.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Bringer of Tranquility"
     },
     {
         "Id": "Arabelle",
-        "Portrait": "https://i.imgur.com/6uVMBdR.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/6uVMBdR.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Genocide"
     },
     {
         "Id": "Bari",
-        "Portrait": "https://i.imgur.com/yka6U0L.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/yka6U0L.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Mayreel"
     },
     {
         "Id": "Beth",
-        "Portrait": "https://i.imgur.com/HIQeB3T.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/HIQeB3T.png",
+        "Tier": "Unique",
+        "ExWeapon": "Predator"
     },
     {
         "Id": "Bianca",
-        "Portrait": "https://i.imgur.com/A4bL66g.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/A4bL66g.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Astarte"
     },
     {
         "Id": "Carol",
-        "Portrait": "https://i.imgur.com/bje42bt.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/bje42bt.png",
+        "Tier": "Unique",
+        "ExWeapon": "Little Star"
     },
     {
         "Id": "Clara",
-        "Portrait": "https://i.imgur.com/4bs097n.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/4bs097n.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Paimon's Fragment III"
     },
     {
         "Id": "Claudio",
-        "Portrait": "https://i.imgur.com/RN6hqsn.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/RN6hqsn.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Twilight"
     },
     {
         "Id": "Crossel",
-        "Portrait": "https://i.imgur.com/jkSloGW.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/jkSloGW.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Permission Denied"
     },
     {
         "Id": "Eleanor",
-        "Portrait": "https://i.imgur.com/wHcw0bL.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/wHcw0bL.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Benedictus"
     },
     {
         "Id": "Erina",
-        "Portrait": "https://i.imgur.com/x2xaKp2.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/x2xaKp2.png",
+        "Tier": "Unique",
+        "ExWeapon": "Balmug"
     },
     {
         "Id": "Eugene",
-        "Portrait": "https://i.imgur.com/nUnP189.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/nUnP189.png",
+        "Tier": "Unique",
+        "ExWeapon": "Brave Heart"
     },
     {
         "Id": "Future Knight",
-        "Portrait": "https://i.imgur.com/vuXEBx0.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/vuXEBx0.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Cosmic Destroyer"
     },
     {
         "Id": "Future Knight (Two-Handed Sword)",
-        "Name": "Future Knight",
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/vuXEBx0.png",
         "VersionOfHeroId": "Future Knight",
-        "Portrait": "https://i.imgur.com/vuXEBx0.png"
+        "Tier": "Unique",
+        "ExWeapon": "Atomic Destroyer"
     },
     {
         "Id": "Future Princess",
-        "Portrait": "https://i.imgur.com/qJRpe23.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/qJRpe23.png",
+        "Tier": "Unique",
+        "ExWeapon": "Liberator"
     },
     {
         "Id": "Gabriel",
-        "Portrait": "https://i.imgur.com/xzAsuJj.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/xzAsuJj.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Magnificat"
     },
     {
         "Id": "Garam",
-        "Portrait": "https://i.imgur.com/uW2RwAT.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/uW2RwAT.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Thousand Thunder"
     },
     {
         "Id": "Hana",
-        "Portrait": "https://i.imgur.com/MlS1qm8.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/MlS1qm8.png",
+        "Tier": "Unique",
+        "ExWeapon": "Unchained"
     },
     {
         "Id": "Idol Eva",
-        "Portrait": "https://i.imgur.com/RxkTnoA.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/RxkTnoA.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Angel Voice"
     },
     {
         "Id": "Kamael",
-        "Portrait": "https://i.imgur.com/SRbHxMt.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/SRbHxMt.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Equinox"
     },
     {
         "Id": "Kanna",
-        "Portrait": "https://i.imgur.com/8xCCPPq.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/8xCCPPq.png",
+        "Tier": "Unique",
+        "ExWeapon": "Mind Snap"
     },
     {
         "Id": "Lahn",
-        "Portrait": "https://i.imgur.com/AxCe4OH.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/AxCe4OH.png",
+        "Tier": "Unique",
+        "ExWeapon": "Pure Mind"
     },
     {
         "Id": "Lahn (Basket)",
-        "Name": "Lahn",
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/AxCe4OH.png",
         "VersionOfHeroId": "Lahn",
-        "Portrait": "https://i.imgur.com/AxCe4OH.png"
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Elusive reflection"
     },
     {
         "Id": "Lapice",
-        "Portrait": "https://i.imgur.com/rC5yZ3x.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/rC5yZ3x.png",
+        "Tier": "Unique",
+        "ExWeapon": "Innocent"
     },
     {
         "Id": "Lapice (Two-handed sword)",
-        "Name": "Lapice",
-        "VersionOfHeroId": "Lapic",
-        "Portrait": "https://i.imgur.com/rC5yZ3x.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/rC5yZ3x.png",
+        "VersionOfHeroId": "Lapice",
+        "Tier": "Unique",
+        "ExWeapon": "Radiant"
     },
     {
         "Id": "Lifeguard Yuze",
-        "Portrait": "https://i.imgur.com/EX0cCCe.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/EX0cCCe.png",
+        "Tier": "Unique",
+        "ExWeapon": "Ocean Keeper"
     },
     {
         "Id": "Lilith",
-        "Portrait": "https://i.imgur.com/oMkCI3Q.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/oMkCI3Q.png",
+        "Tier": "Unique",
+        "ExWeapon": "Queen's Grace"
     },
     {
         "Id": "Lucy",
-        "Portrait": "https://i.imgur.com/r4pCjo7.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/r4pCjo7.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Fantasia"
     },
     {
         "Id": "Lupina",
-        "Portrait": "https://i.imgur.com/JooJ6GJ.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/JooJ6GJ.png",
+        "Tier": "Unique",
+        "ExWeapon": "Amarok"
     },
     {
         "Id": "Lynn",
-        "Portrait": "https://i.imgur.com/ZPJcUdh.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/ZPJcUdh.png",
+        "Tier": "Unique",
+        "ExWeapon": "Red Lotus"
     },
     {
         "Id": "Mad Panda",
-        "Portrait": "https://i.imgur.com/WjJx5WT.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/WjJx5WT.png",
+        "Tier": "Unique",
+        "ExWeapon": "Prestige"
     },
     {
         "Id": "Marina",
-        "Portrait": "https://i.imgur.com/rhU9doI.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/rhU9doI.png",
+        "Tier": "Unique",
+        "ExWeapon": "Armada"
     },
     {
         "Id": "Mayreel",
-        "Portrait": "https://i.imgur.com/UhyqLMf.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/UhyqLMf.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Solaris"
     },
     {
         "Id": "Miss Chrome",
-        "Portrait": "https://i.imgur.com/GAzf0V5.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/GAzf0V5.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Black Mamba"
     },
     {
         "Id": "Miya",
-        "Portrait": "https://i.imgur.com/XtGNw7s.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/XtGNw7s.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Shangri La"
     },
     {
         "Id": "Mk.2",
-        "Portrait": "https://i.imgur.com/w74opF2.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/w74opF2.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Rebelion"
     },
     {
         "Id": "Mk.99",
-        "Portrait": "https://i.imgur.com/3EJnOOu.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/3EJnOOu.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Omage Blaster"
     },
     {
         "Id": "Nari",
-        "Portrait": "https://i.imgur.com/kLUnRiu.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/kLUnRiu.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Sage Bead"
     },
     {
         "Id": "Noxia",
-        "Portrait": "https://i.imgur.com/i0WnsvA.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/i0WnsvA.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Furfur"
     },
     {
         "Id": "Oghma",
-        "Portrait": "https://i.imgur.com/0cVQpGn.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/0cVQpGn.png",
+        "Tier": "Unique",
+        "ExWeapon": "Eckesachs"
     },
     {
         "Id": "Oghma (Rifle)",
-        "Name": "Oghma",
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/0cVQpGn.png",
         "VersionOfHeroId": "Oghma",
-        "Portrait": "https://i.imgur.com/0cVQpGn.png"
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Eckesachs Mode.R"
     },
     {
         "Id": "Orca",
-        "Portrait": "https://i.imgur.com/8d1RB1l.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/8d1RB1l.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Nemesis"
     },
     {
         "Id": "Parvati",
-        "Portrait": "https://i.imgur.com/Ct0YxdF.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/Ct0YxdF.png",
+        "Tier": "Unique",
+        "ExWeapon": "Office Supply"
     },
     {
         "Id": "Plitvice",
-        "Portrait": "https://i.imgur.com/vY99hFc.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/vY99hFc.png",
+        "Tier": "Unique",
+        "ExWeapon": "Prominence"
     },
     {
         "Id": "Plitvice (One-handed sword)",
-        "Name": "Plitvice",
-        "Portrait": "https://i.imgur.com/vY99hFc.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/vY99hFc.png",
+        "VersionOfHeroId": "Plitvice",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Halo"
     },
     {
         "Id": "Priscilla",
-        "Portrait": "https://i.imgur.com/5Ya22aU.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/5Ya22aU.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Eclipse"
     },
     {
         "Id": "Rey",
-        "Portrait": "https://i.imgur.com/zuGykng.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/zuGykng.png",
+        "Tier": "Unique",
+        "ExWeapon": "Heavenly Perffection"
     },
     {
         "Id": "Rue",
-        "Portrait": "https://i.imgur.com/h0zt41T.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/h0zt41T.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Terminator"
     },
     {
         "Id": "Rue (Two-handed sword)",
-        "Name": "Rue",
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/h0zt41T.png",
         "VersionOfHeroId": "Rue",
-        "Portrait": "https://i.imgur.com/h0zt41T.png"
+        "Tier": "Unique",
+        "ExWeapon": "Nightmare"
     },
     {
         "Id": "Scintilla",
-        "Portrait": "https://i.imgur.com/AcEfE8Z.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/AcEfE8Z.png",
+        "Tier": "Unique",
+        "ExWeapon": "Ifrit"
     },
     {
         "Id": "Seaside Sohee",
-        "Portrait": "https://i.imgur.com/2D2Q3Bt.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/2D2Q3Bt.png",
+        "Tier": "Unique",
+        "ExWeapon": "Nereid"
     },
     {
         "Id": "Summer Loraine",
-        "Portrait": "https://i.imgur.com/KZ362xX.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/KZ362xX.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Ocean Call"
     },
     {
         "Id": "Tinia",
-        "Portrait": "https://i.imgur.com/bH3I8JM.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/bH3I8JM.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Sarnga"
     },
     {
         "Id": "Valencia",
-        "Portrait": "https://i.imgur.com/17icdBA.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/17icdBA.png",
+        "Tier": "Unique",
+        "ExWeapon": "Arges"
     },
     {
         "Id": "Veronica",
-        "Portrait": "https://i.imgur.com/KbjVZvH.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/KbjVZvH.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Messiah"
     },
     {
         "Id": "Vishuvac",
-        "Portrait": "https://i.imgur.com/nN2w7Jj.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/nN2w7Jj.png",
+        "Tier": "Unique",
+        "ExWeapon": "Volcanic Horn"
     },
     {
         "Id": "Vishuvac (Gauntlet)",
-        "Name": "Vishuvac",
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/nN2w7Jj.png",
         "VersionOfHeroId": "Vishuvac",
-        "Portrait": "https://i.imgur.com/nN2w7Jj.png"
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Volcanic Core"
     },
     {
         "Id": "Kunoichi Sumire",
-        "Portrait": "https://i.imgur.com/DTDemZt.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/DTDemZt.png",
+        "Tier": "Unique",
+        "ExWeapon": "Kagemaru"
     },
     {
         "Id": "Paimon",
-        "Portrait": "https://i.imgur.com/G5XIi6K.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/G5XIi6K.png",
+        "Tier": "Unique",
+        "ExWeapon": "Planet Buster"
     },
     {
         "Id": "Rosetta",
-        "Portrait": "https://i.imgur.com/iFe26aw.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/iFe26aw.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Ratel"
     },
     {
         "Id": "White Kid",
-        "Portrait": "https://i.imgur.com/XYPMS44.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/XYPMS44.png",
+        "Tier": "Unique",
+        "ExWeapon": "Snow Maker"
     },
     {
         "Id": "1st Corps Commander",
-        "Portrait": "https://i.imgur.com/bC1mG1B.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/bC1mG1B.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Fail-not"
     },
     {
         "Id": "H.E.R.O.S KAI",
-        "Portrait": "https://i.imgur.com/kyLp1wv.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/kyLp1wv.png",
+        "Tier": "Unique",
+        "ExWeapon": "Durendal"
     },
     {
         "Id": "Cyborg Monk Chun Ryeo",
-        "Portrait": "https://i.imgur.com/eyq4mFp.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/eyq4mFp.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Secret Book of the Shen Mountain Fist"
     },
     {
         "Id": "Elder Dragon's Daughter Ameris",
-        "Portrait": "https://i.imgur.com/NCOXETT.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/NCOXETT.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Dragon Fang"
     },
     {
         "Id": "Sea Vendor Sia",
-        "Portrait": "https://i.imgur.com/KQ6596t.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/KQ6596t.png",
+        "Tier": "Unique",
+        "CombatType": "Ranged",
+        "ExWeapon": "Ocean's Tear"
     },
     {
         "Id": "Beach Amy",
-        "Portrait": "https://i.imgur.com/fadfsck.png"
-    },
-    {
-        "Id": "Baby Dokkaebi Eunha",
-        "Portrait": "https://i.imgur.com/qzfaXGj.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/fadfsck.png",
+        "Tier": "Unique",
+        "ExWeapon": "Parashu"
     },
     {
         "Id": "Aisha",
-        "Portrait": "https://i.imgur.com/S1J4uwD.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/S1J4uwD.png",
+        "Tier": "Rare",
+        "ExWeapon": "Veritas"
     },
     {
         "Id": "Akayuki",
-        "Portrait": "https://i.imgur.com/SYIISys.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/SYIISys.png",
+        "Tier": "Rare",
+        "ExWeapon": "Murasame"
     },
     {
         "Id": "Amy",
-        "Portrait": "https://i.imgur.com/yxsmOSg.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/yxsmOSg.png",
+        "Tier": "Rare",
+        "ExWeapon": "Geminus"
     },
     {
         "Id": "Aoba",
-        "Portrait": "https://i.imgur.com/xVz6Lk3.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/xVz6Lk3.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Oberon"
     },
     {
         "Id": "Catherine",
-        "Portrait": "https://i.imgur.com/HEsVOz3.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/HEsVOz3.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Marauder"
     },
     {
         "Id": "Coco",
-        "Portrait": "https://i.imgur.com/uQRbrq3.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/uQRbrq3.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Witch Heart"
     },
     {
         "Id": "Craig",
-        "Portrait": "https://i.imgur.com/HxlzFJh.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/HxlzFJh.png",
+        "Tier": "Rare",
+        "ExWeapon": "Silence"
     },
     {
         "Id": "Dolf",
-        "Portrait": "https://i.imgur.com/970EhpL.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/970EhpL.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Helios"
     },
     {
         "Id": "Elvira",
-        "Portrait": "https://i.imgur.com/fRGdZfz.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/fRGdZfz.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Trouble Maker"
     },
     {
         "Id": "Eva",
-        "Portrait": "https://i.imgur.com/CNtDWoB.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/CNtDWoB.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Justice"
     },
     {
         "Id": "Favi",
-        "Portrait": "https://i.imgur.com/gxwfmXd.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/gxwfmXd.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Frost Jack"
     },
     {
         "Id": "Girgas",
-        "Portrait": "https://i.imgur.com/4VLOLsT.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/4VLOLsT.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Wrath of the Dragon"
     },
     {
         "Id": "Gremory",
-        "Portrait": "https://i.imgur.com/aETu1iT.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/aETu1iT.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Curiosity Solver"
     },
     {
         "Id": "Hekate",
-        "Portrait": "https://i.imgur.com/JzOdJlm.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/JzOdJlm.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Negotiator"
     },
     {
         "Id": "Karina",
-        "Portrait": "https://i.imgur.com/JI7kfg1.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/JI7kfg1.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Crescent Moon"
     },
     {
         "Id": "Knight",
-        "Portrait": "https://i.imgur.com/nHmeOWu.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/nHmeOWu.png",
+        "Tier": "Rare",
+        "ExWeapon": "Libera"
     },
     {
         "Id": "Knight (Bow)",
-        "Name": "Knight",
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/nHmeOWu.png",
         "VersionOfHeroId": "Knight",
-        "Portrait": "https://i.imgur.com/nHmeOWu.png"
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Libera Type.B"
     },
     {
         "Id": "Lavi",
-        "Portrait": "https://i.imgur.com/XT5wkQO.png"
+        "Element": "Fire",
+        "Portrait": "https://i.imgur.com/XT5wkQO.png",
+        "Tier": "Rare",
+        "ExWeapon": "Pulverizer"
     },
     {
         "Id": "Loraine",
-        "Portrait": "https://i.imgur.com/slbZgAi.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/slbZgAi.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Emma"
     },
     {
         "Id": "Mariane",
-        "Portrait": "https://i.imgur.com/2CoPXa4.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/2CoPXa4.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Merciless"
     },
     {
         "Id": "Marvin",
-        "Portrait": "https://i.imgur.com/g5SEwg4.png"
+        "Element": "Earth",
+        "Portrait": "https://i.imgur.com/g5SEwg4.png",
+        "Tier": "Rare",
+        "ExWeapon": "Vulkan"
     },
     {
         "Id": "Mei",
-        "Portrait": "https://i.imgur.com/tk4uaBB.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/tk4uaBB.png",
+        "Tier": "Rare",
+        "ExWeapon": "Pride of Fighter"
     },
     {
         "Id": "Neva",
-        "Portrait": "https://i.imgur.com/6hLsCKK.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/6hLsCKK.png",
+        "Tier": "Rare"
     },
     {
         "Id": "Rachel",
-        "Portrait": "https://i.imgur.com/rQr7j5l.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/rQr7j5l.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Blue Rose"
     },
     {
         "Id": "Rampang",
-        "Portrait": "https://i.imgur.com/TpPt6dP.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/TpPt6dP.png",
+        "Tier": "Rare",
+        "ExWeapon": "Firm Determination"
     },
     {
         "Id": "Rie",
-        "Portrait": "https://i.imgur.com/vDsItHB.png"
+        "Element": "Basic",
+        "Portrait": "https://i.imgur.com/vDsItHB.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged"
     },
     {
         "Id": "Saphira",
-        "Portrait": "https://i.imgur.com/EQcPp9T.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/EQcPp9T.png",
+        "Tier": "Rare",
+        "ExWeapon": "Fafnir"
     },
     {
         "Id": "Sohee",
-        "Portrait": "https://i.imgur.com/7n29IRo.png"
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/7n29IRo.png",
+        "Tier": "Rare",
+        "CombatType": "Ranged",
+        "ExWeapon": "Magniton Buster"
     },
     {
         "Id": "White Beast",
-        "Portrait": "https://i.imgur.com/mY83V9a.png"
+        "Element": "Water",
+        "Portrait": "https://i.imgur.com/mY83V9a.png",
+        "Tier": "Rare",
+        "ExWeapon": "Fenrir"
     },
     {
         "Id": "Yuze",
-        "Portrait": "https://i.imgur.com/XIWlBZj.png"
+        "Element": "Dark",
+        "Portrait": "https://i.imgur.com/XIWlBZj.png",
+        "Tier": "Rare",
+        "ExWeapon": "Tartaros"
     }
 ]
