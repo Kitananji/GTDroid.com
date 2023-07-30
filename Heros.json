@@ -578,6 +578,7 @@
     },
     {
         "Id": "Cyborg Monk Chun Ryeo",
+        "SmallName": "Chun Ryeo",
         "Element": "Light",
         "Portrait": "https://i.imgur.com/eyq4mFp.png",
         "Tier": "Unique",
@@ -586,6 +587,7 @@
     },
     {
         "Id": "Elder Dragon's Daughter Ameris",
+        "SmallName": "Ameris",
         "Element": "Earth",
         "Portrait": "https://i.imgur.com/NCOXETT.png",
         "Tier": "Unique",
@@ -594,6 +596,7 @@
     },
     {
         "Id": "Sea Vendor Sia",
+        "SmallName": "Sia",
         "Element": "Water",
         "Portrait": "https://i.imgur.com/KQ6596t.png",
         "Tier": "Unique",
@@ -609,6 +612,7 @@
     },
     {
         "Id": "Beach Dragon Knight Shapira",
+        "SmallName": "Beach Shapira",
         "Element": "Light",
         "Portrait": "https://i.imgur.com/SZrL87h.png",
         "Tier": "Unique",
