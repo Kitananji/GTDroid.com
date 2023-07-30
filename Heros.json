@@ -608,6 +608,13 @@
         "ExWeapon": "Parashu"
     },
     {
+        "Id": "Beach Dragon Knight Shapira",
+        "Element": "Light",
+        "Portrait": "https://i.imgur.com/SZrL87h.png",
+        "Tier": "Unique",
+        "ExWeapon": "Loyal Shovel"
+    },
+    {
         "Id": "Aisha",
         "Element": "Light",
         "Portrait": "https://i.imgur.com/S1J4uwD.png",

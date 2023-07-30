@@ -474,6 +474,12 @@
         "Tier": "Epic"
     },
     {
+        "Type": "TwoHandedSword",
+        "Name": "Loyal Shovel",
+        "Icon": "https://i.imgur.com/UeazUoG.png",
+        "Tier": "Epic"
+    },
+    {
         "Type": "Rifle",
         "Name": "Blue Rose",
         "Icon": "https://i.imgur.com/4nWjJkS.png",
