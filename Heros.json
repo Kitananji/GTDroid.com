@@ -533,7 +533,7 @@
         "ExWeapon": "Volcanic Core"
     },
     {
-        "Id": "Kunoichi Sumire",
+        "Id": "Sumire",
         "Element": "Dark",
         "Portrait": "https://i.imgur.com/DTDemZt.png",
         "Tier": "Unique",
@@ -577,8 +577,7 @@
         "ExWeapon": "Durendal"
     },
     {
-        "Id": "Cyborg Monk Chun Ryeo",
-        "SmallName": "Chun Ryeo",
+        "Id": "Chun Ryeo",
         "Element": "Light",
         "Portrait": "https://i.imgur.com/eyq4mFp.png",
         "Tier": "Unique",
@@ -586,8 +585,7 @@
         "ExWeapon": "Secret Book of the Shen Mountain Fist"
     },
     {
-        "Id": "Elder Dragon's Daughter Ameris",
-        "SmallName": "Ameris",
+        "Id": "Ameris",
         "Element": "Earth",
         "Portrait": "https://i.imgur.com/NCOXETT.png",
         "Tier": "Unique",
@@ -595,8 +593,7 @@
         "ExWeapon": "Dragon Fang"
     },
     {
-        "Id": "Sea Vendor Sia",
-        "SmallName": "Sia",
+        "Id": "Sia",
         "Element": "Water",
         "Portrait": "https://i.imgur.com/KQ6596t.png",
         "Tier": "Unique",
@@ -611,8 +608,7 @@
         "ExWeapon": "Parashu"
     },
     {
-        "Id": "Beach Dragon Knight Shapira",
-        "SmallName": "Beach Shapira",
+        "Id": "Beach Shapira",
         "Element": "Light",
         "Portrait": "https://i.imgur.com/SZrL87h.png",
         "Tier": "Unique",
@@ -816,7 +812,7 @@
         "CombatType": "Ranged"
     },
     {
-        "Id": "Saphira",
+        "Id": "Shapira",
         "Element": "Dark",
         "Portrait": "https://i.imgur.com/EQcPp9T.png",
         "Tier": "Rare",
