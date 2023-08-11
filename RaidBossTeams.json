@@ -1,5 +1,715 @@
 [
-  
+  {
+    "Boss": "Minister Duncan",
+    "Element": "Basic",
+    "Teams": [
+      {
+        "Heros": [
+          "Claudio",
+          "Andras",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=vEg0Ea3m_cI"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Nilj4NbsAI8"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=TaRech8k3cA"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Karina+"
+        ]
+      },
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Lilith",
+          "Beth",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=ysGj5A7R17w"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Karina+",
+          "Tinia"
+        ],
+        "Video": "https://www.youtube.com/watch?v=p5fJYuNYW5U"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=CgvEE6UjzIs"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Arabelle",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=m4QyqO0w4f0"
+      }
+    ]
+  },
+
+  {
+    "Boss": "Invader Director",
+    "Element": "Dark",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Rosetta",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=6wjo3ramqgI"
+      },
+
+      {
+        "Heros": [
+          "H.E.R.O.S KAI",
+          "Valencia",
+          "Lapice",
+          "Lilith"
+        ],
+        "Video": "https://www.youtube.com/watch?v=g5-9v0Yt_bw"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Rosetta",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=tf0T9MclSC4"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Gabriel",
+          "Tinia",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=XTxTjS5jyZM"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Valencia",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=BFB9VdzgvO8"
+      },
+
+      {
+        "Heros": [
+          "Valencia",
+          "Lapice",
+          "Carol",
+          "Neva"
+        ],
+        "Video": "https://www.youtube.com/watch?v=wVRRv6EUbyM"
+      }
+
+    ]
+  },
+
+  {
+    "Boss": "Grand Admiral Marina",
+    "Element": "Water",
+    "Teams": [
+      {
+        "Heros": [
+          "Ameris",
+          "Mayreel",
+          "Andras",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=nPKb4ADAsNc"
+      },
+
+      {
+        "Heros": [
+          "Ameris",
+          "Mayreel",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=I82cmoZ92Kk"
+      },
+
+      {
+        "Heros": [
+          "Rue (Two-handed sword)",
+          "Lifeguard Yuze",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=QZpkjcq2oRs"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Andras",
+          "Mayreel",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DQNs1nrJCwA"
+      }
+    ]
+  },
+
+  {
+    "Boss": "Furious Desert Bull Worm",
+    "Element": "Earth",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Plitvice (One-handed sword)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Mi5OcO2MEVE"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Plitvice (One-handed sword)",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=t7edJKuVMSA"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=eaRc8_tyFVM"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=xAC2UnODomc"
+      },
+
+      {
+        "Heros": [
+          "Vishuvac (Gauntlet)",
+          "Andras",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=PjqYPS8ppcU"
+      },
+
+      {
+        "Heros": [
+          "Elvira+",
+          "Andras",
+          "Vishuvac (Gauntlet)",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=w5iQjza5Ge8"
+      },
+
+      {
+        "Heros": [
+          "Rey",
+          "Scintilla",
+          "Lifeguard Yuze",
+          "Lilith"
+        ],
+        "Video": "https://www.youtube.com/watch?v=M1q72eRVHW4"
+      },
+
+      {
+        "Heros": [
+          "Elvira+",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=URSLpetXGCA"
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Plitvice (One-handed sword)",
+          "Vishuvac (Gauntlet)",
+          "Lucy",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=LjX3rZNNlBc"
+      }
+    ]
+  },
+
+  {
+    "Boss": "Invader Commander",
+    "Element": "Basic",
+    "Teams": [
+      {
+        "Heros": [
+          "Claudio",
+          "Andras",
+          "1st Corps Commander",
+          "Nari"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=P2T2lT8_QlA"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=zf80eF_u_-s"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=SPLtpW_SxiQ"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Karina+"
+        ],
+        "Video": "https://www.youtube.com/watch?v=-tf3wwq9WGs"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Karina+",
+          "Tinia"
+        ]
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DNc1EPHZXjk"
+      },
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "Arabelle",
+          "Nari"
+        ]
+      },
+      {
+        "Heros": [
+          "Lilith",
+          "Beth",
+          "Lifeguard Yuze",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=9kk9aaU8GJk"
+      }
+    ]
+  },
+
+  {
+    "Boss": "Nine-tailed Fox Garam",
+    "Element": "Light",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Nari",
+          "Rosetta",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=riNRcUZZ4eg"
+      },
+    
+      {
+        "Heros": [
+          "Andras",
+          "Nari",
+          "Knight (Bow)",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=H-1KfpLkuvs"
+      },
+      
+      {
+        "Heros": [
+          "Future Knight",
+          "Nari",
+          "Knight (Bow)",
+          "Kanna"
+        ],
+        "Video": "https://www.youtube.com/watch?v=NKluJg7eokE"
+      },
+
+      {
+        "Heros": [
+          "Kanna",
+          "Knight (Bow)",
+          "Lifeguard Yuze",
+          "Rey"
+        ],
+        "Video": "https://youtu.be/4ey0rPRlPlQ?t=215"
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Boss": "Ancient Demon",
+    "Element": "Fire",
+    "Teams": [
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Nari"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=MJFuODllWTc"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Orca",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=8LCZu6oFXq4"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Nari"
+        ],
+        "Video": "https://www.youtube.com/watch?v=_ma_-Zxrx70"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Chun Ryeo"
+        ],
+        "Video": "https://www.youtube.com/watch?v=o7iCUdkNUow"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Garam",
+          "Orca",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=YwQFJnFNbl0"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "White Kid",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=3sxikdcF9j0"
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "H.E.R.O.S KAI",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Orca",
+          "Coco",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Valencia",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Lifeguard Yuze",
+          "Scintilla",
+          "Lilith",
+          "Rey"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Veronica",
+          "Garam",
+          "Orca",
+          "Lucy"
+        ],
+        "Video": "https://www.youtube.com/watch?v=JfEvcE2bFvo"
+      },
+
+      {
+        "Heros": [
+          "Garam",
+          "Orca",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Claudio",
+          "Oghma (Rifle)",
+          "1st Corps Commander",
+          "Kamael"
+        ]
+      },
+
+      {
+        "Heros": [
+          "Veronica",
+          "Garam",
+          "Orca",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=9zfSlUY9Yh8"
+      }
+
+    ]
+  },
+
+  {
+    "Boss": "Fairy",
+    "Element": "Water",
+    "Teams": [
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "Ameris",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=UC0DW1Ebmng"
+      },
+ 
+      {
+        "Heros": [
+          "Andras",
+          "Kamael",
+          "Rosetta",
+          "1st Corps Commander"
+        ],
+        "Video": "https://www.youtube.com/watch?v=L9lUgxpTtdc"
+      },
+ 
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "1st Corps Commander",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=qmc39uuSALE"
+      },
+
+      {
+        "Heros": [
+          "Andras",
+          "Mayreel",
+          "Tinia",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=IUqq6Ep6OLw"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Andras",
+          "Mayreel",
+          "Kamael"
+        ],
+        "Video": "https://www.youtube.com/watch?v=z6T7LEu0tDo"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Andras",
+          "Mayreel",
+          "Tinia"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DMUgSIpbObg"
+      },
+
+      {
+        "Heros": [
+          "Rue (Two-handed sword)",
+          "Lifeguard Yuze",
+          "Lilith",
+          "Rey"
+        ],
+        "Video": "https://www.youtube.com/watch?v=DMUgSIpbObg"
+      },
+
+      {
+        "Heros": [
+          "Tinia",
+          "Mayreel",
+          "Kamael",
+          "Veronica"
+        ],
+        "Video": "https://www.youtube.com/watch?v=qgsZKcx2Mzo"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Mayreel",
+          "Tinia",
+          "Veronica"
+        ],
+        "Video": "https://www.youtube.com/watch?v=Attir4aviww"
+      },
+
+      {
+        "Heros": [
+          "Kamael",
+          "Mayreel",
+          "Tinia",
+          "Rue (Two-handed sword)"
+        ],
+        "Video": "https://www.youtube.com/watch?v=UrP67ICbdbY"
+      }
+
+    ]
+  },
+
   {
     "Boss": "Shadow Beast",
     "Element": "Dark",
@@ -293,7 +1003,7 @@
 
     ]
   },
-
+  
   {
     "Boss": "Empire Knight",
     "Element": "Earth",
